@@ -1,0 +1,50 @@
+#img-wind-speed {
+  align-content: center;
+  margin: 20px;
+  border: 1px solid red;
+  padding: 10px;
+  width: 600px;
+}
+
+#current-weather-img {
+  width: 151px;
+  border: 1px solid red;
+  margin: 0 0 0 120px;
+  display: block;
+}
+
+#current-weather-caption {
+  text-align: end;
+  color: #7a13db;
+  font-weight: 600;
+}
+
+#temp-value {
+  font-size: 52px;
+  color: #7a13db;
+}
+
+#max-current-temp-value,
+#min-current-temp-value {
+  font-size: 20px;
+}
+
+#max-current-temp-value {
+  color: #e7376c;
+}
+
+#min-current-temp-value {
+  color: #08a1fa;
+}
+
+#humidity-img,
+#wind-img {
+  width: 30px;
+  margin: 3px 3px 0 0;
+}
+
+#humidity-wind-info {
+  border: 1px solid red;
+  padding: 0px 10px;
+  text-align: left;
+}
