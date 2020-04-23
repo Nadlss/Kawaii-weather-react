@@ -1,0 +1,36 @@
+#container {
+  width: 600px;
+  margin: 20px;
+  padding: 5px;
+  align-content: center;
+}
+
+#search-city-input {
+  width: 350px;
+  height: 30px;
+  margin: 5px;
+  padding-left: 5px;
+  border: #e7dee7;
+  border-radius: 5px;
+  box-shadow: 5px 3px 5px 0px rgb(194, 190, 194);
+}
+
+#search-button {
+  width: 80px;
+  height: 30px;
+  padding: 1px;
+  margin: 5px;
+  background-color: #da0dec;
+  border: #da0dec;
+  box-shadow: 5px 3px 5px 0px rgb(194, 190, 194);
+}
+
+#current-location-button {
+  width: 130px;
+  height: 30px;
+  padding: 1px;
+  margin: 5px;
+  background-color: #20ec0d;
+  border: #20ec0d;
+  box-shadow: 5px 3px 5px 0px rgb(194, 190, 194);
+}
