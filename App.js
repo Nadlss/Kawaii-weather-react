@@ -3,7 +3,6 @@ import "./styles.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import CityForm from "./CityForm";
 import CurrentWeather from "./CurrentWeather";
-import Forecast from "./Forecast";
 
 export default function App() {
   return (
